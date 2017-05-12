@@ -1,0 +1,15 @@
+{
+  "name": "resume-generator",
+  "version": "0.0.1",
+  "description": "Resume Generator",
+  "repository": "https://mbuella@gitlab.com/chatph/mingle.git",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "scripts": {},
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pandoc": "^0.2.2",
+    "gulp-html-pdf": "^0.3.0"
+  }
+}
