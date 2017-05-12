@@ -3,6 +3,19 @@ Marlon Bueza Buella
 
 ----
 
+Work Experience
+----------
+
+2015-2016
+:   **Associate Software Engineer**, Accenture Philippines
+
+    Designed, coded, tested, debugged, and deployed custom application mainframe features and functions using Agile Methodology.
+
+2014-2015
+:   **Junior Web Application Programmer and Developer**, AdNU Management Information Systems
+
+    Contributed to the creation of enrolment and registration system for the AdNU High School, using PHP, CodeIgniter and Bootstrap frameworks.
+
 Education
 ---------
 
@@ -15,21 +28,6 @@ Education
 :   **Secondary Education**, Calabanga National High School (Calabanga, Camarines Sur)
 
     *Graduated as Valedictorian*
-
-Experience
-----------
-
-
-2015-2016
-:   **Associate Software Engineer**, Accenture Philippines
-
-    Designed, coded, tested, debugged, and deployed custom application mainframe features and functions using Agile Methodology.
-
-2014-2015
-:   **Junior Web Application Programmer and Developer**, AdNU Management Information Systems
-
-    Contributed to the creation of enrolment and registration system for the AdNU High School, using PHP, CodeIgniter and Bootstrap frameworks.
-
 
 Technical Experience
 --------------------
@@ -48,40 +46,38 @@ Mingle.ph
 
     **Repository**: On request
 
-Development Skills
-:   **Javascript:** Javascript syntax, variable scopes, global methods/
-    functions, conditionals/loops, debugging through built-in JS debuggers/consoles in browsers, JSON.
+Professional Skills
+--------------------
 
-    Proficiency: 9/10
-
-:   **PHP:** PHP syntax/variables/output (echo, printl(), var_dump
-    etc.), conditionals/loops, functions, arrays/multi-arrays, superglobals, form data processing, sessions, basic database operations (CREATE, INSERT etc.), OOP in PHP.
-
-    Proficiency: 9/10
-
-:   **SQL:** Basic CRUD: Create Insert Update Delete, table joins, 
-    aggregate functions, ERD and database/table creation, indices (primary and foreign keys, UNIQUE, NULL, etc.).
-
-    Proficiency: 8.5/10
+Programming/ Languages
+:   **HTML 5:** 9.5/10
+:   **CSS 3:** 9/10
+:   **Javascript:** 9/10
+:   **PHP:** 9/10
+:   **SQL:** 8.5/10
 
 Frameworks
-:   **Bootstrap 3:** Bootstrap grids, typography, BS classes for HTML
-    elements (images, tables, etc.), BS elements (Jumbotron, wells, alerts, buttons, etc.)
+:   **Bootstrap 3.** 9/10
+:   **jQuery 3.2.** 8.8/10
+:   **Laravel 5.4:** 9.3/10
 
-    Proficiency: 9/10
-
-:   **jQuery 3.2:** jQuery selectors ($), jQuery Effects (fade, slide, 
-    animate, etc.), HTML get() and set(), jQuery tag traversal (parent/children), AJAX.
-
-    Proficiency: 8.8/10
-
-:   **Laravel 5.4:** MVC Pattern, routing, user authentication, CSRF protection, controllers, views and Blade templates, Artisan console and commands, collections, file storage, helpers, Eloquent ORM, generating mock data using database seeders.
-
-    Proficiency: 9.3/10
+IDE Tools
+:   **Sublime Text 3:** 9/10
 
 Others
 :   Basic knowledge of **NodeJS**, **git**, **Composer**, **NPM Package Manager**
 
+Personal Skills
+--------------------
+
+Self
+:   **Creativity:** 9/10
+:   **Organization:** 8/10
+
+Team
+:   **Social Commitment:** 7/10
+:   **Communication:** 8/10
+:   **Team Work:** 8/10
 
 ----
 
